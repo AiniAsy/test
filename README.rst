@@ -13,3 +13,8 @@ Files
 * tutorial - The HTML files for the actual tutorial
 * usb - Downloads for you to be able to install Sphinx properly
 * docs - Documentation for some of the project we're using, to have locally
+
+* hai - Documentation for some of the project we're using, to have locally
+
+* try - Documentation for some of the project we're using, to have locally
+
